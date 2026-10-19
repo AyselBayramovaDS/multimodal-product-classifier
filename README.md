@@ -2,7 +2,7 @@
 
 Classifies fashion products into 37 `subCategory` classes using the product image, the product text, and both, and compares the three models under identical conditions.
 
-Dataset: [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) (Kaggle).
+Dataset: [Fashion Product Images (Small)] (https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) (Kaggle).
 
 ## Files
 - `fashionpi.ipynb`: full pipeline with outputs (data audit, split, pipelines, three models, evaluation, error analysis, verdict, all plots)
