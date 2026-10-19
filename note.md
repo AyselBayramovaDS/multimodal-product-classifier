@@ -1,4 +1,4 @@
-# Multi-Modal Product Classifier (Image + Text): note.md
+# Multi-Modal Product Classifier (Image + Text)
 
 **Dataset:** [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small) (Kaggle, `paramaggarwal`)
 **Environment:** Kaggle Notebook with GPU (CUDA), full dataset, no subsampling
